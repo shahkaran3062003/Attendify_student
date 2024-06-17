@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bnClass"
+            android:title="Class"
+            android:icon="@drawable/classicon"
+        />
+    <item android:id="@+id/bnAttendance"
+        android:icon="@drawable/calendar_light"
+        android:title="Attendance"
+        />
+
+    <item android:id="@+id/bnProfile"
+        android:icon="@drawable/profile_light"
+        android:title="Profile"
+        />
+</menu>
